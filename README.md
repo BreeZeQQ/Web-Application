@@ -7,6 +7,7 @@ Site: https://www.allkeyscheapkeys.com
 
 - Adaptable Payments(Via Credit Card)
 - Adaptable Reviews
+- Adaptable Ticket, Support System
 - Adaptable Plugins and Themes
 - Adaptable Site Analytics
 - Automated Email Billings
